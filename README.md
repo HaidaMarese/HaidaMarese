@@ -1,15 +1,15 @@
 ### Hello 👋, I'm Haida Makouangou
 
-- 😄 Pronouns: She/Her 
+😄 Pronouns: She/Her  
 - 🎓 Computer Science student specializing in Artificial Intelligence, Gaming, and Robotics  
-- 💻 Software Engineering Trainee with a focus on MERN stack development  
+- 💻 Software Engineering Trainee focused on MERN stack development  
 - 🔐 Certified in Security+ and Microsoft Azure Fundamentals (AZ-900)  
-- 🌱 Currently working on full-stack web development projects integrating modern technologies  
-- 🌱 Actively expanding knowledge in advanced MERN stack and AI applications  
-- 👯 Seeking collaboration opportunities in AI, gaming, and robotics domains  
-- 🤔 Open to guidance and mentorship    
-- ⚡ Fun fact: Passionate about traveling and experimenting with new culinary recipes
-- - 📫 Connect with me via [LinkedIn](www.linkedin.com/in/hmakouan)  
+- 🌱 Working on full-stack projects and expanding expertise in MERN stack and AI applications  
+- 👯 Seeking collaboration opportunities in AI, software engineering, machine learning, gaming, and robotics  
+- 🤔 Open to guidance and mentorship  
+- ⚡ Fun fact: Passionate about traveling and experimenting with new culinary recipes  
+- 📫 Connect with me via [LinkedIn](www.linkedin.com/in/hmakouan)  
+
 
 ---
 
