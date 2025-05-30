@@ -27,6 +27,13 @@
 
 ---
 
+## 🌟 Leadership & Volunteering
+
+- Member of **ColorStack**, **Society of Women Engineers**, **Women+ in Tech Charlotte**  
+- Year Up and Per Scholas alumna  
+- Participant in **GE Aerospace Digital Technology Job Simulation**  
+
+
 ### 🎯 Interests & Hobbies
 
 - 📚 Continuously learning new programming languages and frameworks   
