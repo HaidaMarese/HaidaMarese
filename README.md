@@ -8,7 +8,7 @@
 - 👯 Seeking collaboration opportunities in AI, software engineering, machine learning, gaming, and robotics  
 - 🤔 Open to guidance and mentorship  
 - ⚡ Fun fact: Passionate about traveling and experimenting with new culinary recipes  
-- 📫 Connect with me via [LinkedIn](www.linkedin.com/in/hmakouan)  
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/hmakouan/)  
 
 
 ---
