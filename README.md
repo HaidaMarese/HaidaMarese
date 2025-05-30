@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Haida Makouangou
 
-😄 Pronouns: She/Her  
+- 😄 Pronouns: She/Her  
 - 🎓 Computer Science student specializing in Artificial Intelligence, Gaming, and Robotics  
 - 💻 Software Engineering Trainee focused on MERN stack development  
 - 🔐 Certified in Security+ and Microsoft Azure Fundamentals (AZ-900)  
