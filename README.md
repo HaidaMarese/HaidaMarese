@@ -23,7 +23,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-005C9C?style=for-the-badge&logo=mysql&logoColor=white) 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-3ECF8E?style=for-the-badge&logo=servicenow&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)   
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
