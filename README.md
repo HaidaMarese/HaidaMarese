@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: She/Her  
 - 🎓 Computer Science student specializing in Artificial Intelligence, Gaming, and Robotics  
-- 💻 Software Engineering Trainee focused on MERN stack development  
+- 💻 Grad Software Engineering Trainee focused on MERN stack development  
 - 🔐 Certified in Security+ and Microsoft Azure Fundamentals (AZ-900)  
 - 🌱 Working on full-stack projects and expanding expertise in MERN stack and AI applications  
 - 👯 Seeking collaboration opportunities in AI, software engineering, machine learning, gaming, and robotics  
